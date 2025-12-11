@@ -2,4 +2,4 @@
 
 # Charts with React
 
-Let me introduce my project here:
+Let me introduce the project here:
