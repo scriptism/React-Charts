@@ -5,6 +5,7 @@ function App() {
     <>
       <h1>Welcome to React Charts</h1>
       <p>You can practie charts with React Here</p>
+      <p>new paragrapg</p>
     </>
   );
 }
