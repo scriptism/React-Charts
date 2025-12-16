@@ -1,4 +1,5 @@
 import "./App.css";
+import Pie from "./charts/pie";
 
 function App() {
   return (
